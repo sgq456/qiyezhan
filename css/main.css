@@ -1,0 +1,617 @@
+.headerbox{
+	height: 221px;
+	
+
+}
+.logo{
+	width: 1200px;
+	height: 148px;
+	margin: 0 auto;
+	/*background: red;*/
+	background-image: url(../img/logo.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	
+
+}
+.phone{
+	margin-top: 50px;
+	float: left;
+
+}
+}
+.lianxi{
+	margin-top: 5px;
+	font-size: 16px;
+	color: #dfdfdf;
+
+}
+.fx{
+	margin-top: 50px;
+	float: right;
+}
+.daohang{
+	height: 72px;
+	border-top: 1px solid #dfdfdf;
+	margin: 0 auto;
+
+}
+.daohang_wenzi{
+	width: 1200px;
+	height: 72px;
+	/*background: red;*/
+	margin:0 auto;
+	background: url(../img/weeee.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+
+
+
+}
+.wenzi_bq{
+	height: 72px;
+	/*background: green;*/
+	float: left;
+	line-height: 72px;
+	text-align: center;
+	font-size: 22px;
+	font-family: 黑体,微软雅黑;
+
+}
+a{
+	color: #000;
+}
+.wenzi_bq1{
+	width: 44px;
+	height: 4px;
+	background: #e4ce18;
+	margin-left: 78px;
+	margin-right: 78px;
+}
+.wenzi_bq2{
+	margin-left: 78px;
+	margin-right: 78px;
+}
+.banner{
+	width: 100%;
+	height: 550px;
+	/*background: red;*/
+	background-image: url(../img/杨新博_修改_14.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+	position: relative;
+	background-size: 1920px auto;
+	margin:0 auto;
+}
+.fenleiBox{
+	width: 100%;
+	height: 383px;
+	background: #ededed;
+	margin: 0 auto;
+
+}
+.imgBox{
+	width: 1200px;
+	height: 262px;
+	margin: 0 auto;
+	/*background: green;*/
+}
+.imgs{
+	width: 366px;
+	height: 202px;
+	margin-top: 60px;
+	float: left;
+	transition:all 1s;
+}
+.imgs:hover{
+	transform:scale(1.1,1.1);
+}
+
+
+.img2{
+	
+	margin-left: 50px;
+
+
+}
+.img3{
+
+	float: right;
+
+
+}
+.fenlei_wenzi{
+	width: 1200px;
+	height: 111px;
+	/*background: blue;*/
+	margin: 0 auto;
+}
+.meirong_wenzi{
+	width: 260px;
+	height: 111px;
+	margin-top: 50px;
+	margin-left: 106px;
+
+	float: left;
+
+}
+.meirong_wenzi2{
+	margin-left: 154px;
+}
+.meirong_wenzi3{
+	margin-right: 38px;
+	float: right;
+}
+.recommend{
+	width: 1200px;
+	height: 265px;
+	margin: 0 auto;
+	background: url(../img/123123.jpg);
+	background-repeat: no-repeat;
+	background-position: center center; 
+}
+.recommendBox{
+	width: 1200px;
+	height: 755px;
+	margin: 0 auto;
+	position: relative;
+
+
+}
+.recommend_tupian{
+	width: 341px;
+	height: 279px;
+	background: url(../img/杨新博_修改_58.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	position: absolute;
+	right: 0;
+	top: -200px;
+}
+.recommendBox_imgs{
+	width: 255px;
+	height: 513px;
+	margin: 0 auto;
+	
+
+}
+.recommendBox_img1{
+	background: url(../img/杨新博_修改_60.jpg);
+	background-repeat: no-repeat;
+	/*background-position: center center;*/
+	float: left;
+}
+
+.recommendBox_imgs1{
+	width: 840px;
+	height: 150px;
+	margin: 0 auto;
+	margin-left: 50px;
+	float: left;	
+}
+
+.recommendBox_img2{
+	background: url(../img/杨新博_修改_62.jpg);
+	background-repeat: no-repeat;
+	background-position: 50px 0px;
+	float: left;
+}
+.recommendBox_imgs2{
+	width: 240px;
+	height: 365px;
+	margin: 0 auto;
+	float: left;
+	text-align: left;
+	transition:all 0.5s;
+}
+
+.recommendBox_img3{
+	background: url(../img/杨新博_修改_70.jpg);
+	background-repeat: no-repeat;
+	/*background-position:center center;*/
+	float: left;
+	margin-left: 100px;
+}
+.recommendBox_img3:hover{
+	box-shadow: 3px 4px 15px #c2c2c2;
+}
+.recommendBox_img4{
+	background: url(../img/杨新博_修改_72.jpg);
+	background-repeat: no-repeat;
+	/*background-position: center center;*/
+	float: left;
+	margin-left: 65px;
+}
+.recommendBox_img4:hover{
+	box-shadow: 3px 4px 15px #c2c2c2;
+}
+.recommendBox_img5{
+	background: url(../img/杨新博_修改_67.jpg);
+	background-repeat: no-repeat;
+	/*background-position: center center;*/
+	float: right;
+
+}
+.recommendBox_img5:hover{
+	box-shadow: 3px 4px 15px #c2c2c2;
+}
+.recommendBox_imgs2 p{
+	font-size: 14px;
+	font-family: 苹方,微软雅黑;
+	margin-top: 250px;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: center;
+}
+.recommendBox_imgs2 a{
+	color: #092bd8;
+}
+.recommendBox2{
+	width: 1200px;
+	height: 613px;
+	margin: 0 auto;
+
+}
+.recommendBox_img11{
+	background: url(../img/杨新博_修改_44.jpg);
+	background-repeat: no-repeat;
+	/*background-position: center center;*/
+	float: left;
+}
+.recommendBox_img22{
+	background: url(../img/杨新博_修改_42.jpg);
+	background-repeat: no-repeat;
+	background-position: 50px 0px;
+	float: left;
+}
+.recommendBox_img33{
+	background: url(../img/杨新博_修改_48.jpg);
+	background-repeat: no-repeat;
+	/*background-position:center center;*/
+	float: left;
+	margin-left: 100px;
+}
+.recommendBox_img33:hover{
+	box-shadow: 3px 4px 15px #c2c2c2;
+}
+.recommendBox_img44{
+	background: url(../img/杨新博_修改_58.gif);
+	background-repeat: no-repeat;
+	/*background-position: center center;*/
+	float: left;
+	margin-left: 65px;
+}
+.recommendBox_img44:hover{
+	box-shadow: 3px 4px 15px #c2c2c2;
+}
+.recommendBox_img55{
+	background: url(../img/杨新博_修改_60.gif);
+	background-repeat: no-repeat;
+	/*background-position: center center;*/
+	float: right;
+
+}
+.recommendBox_img55:hover{
+	box-shadow: 3px 4px 15px #c2c2c2;
+}
+.recommendBox_hongjiu{
+	width: 1200px;
+	height: 713px;
+	margin: 0 auto;
+	position: relative;
+
+
+}
+.tupian{
+	width: 112px;
+	height: 359px;
+	background: url(../img/杨新博_修改_78.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	position: absolute;
+	right: 60px;
+	top: -230px;
+}
+.recommendBox_img111{
+	background: url(../img/杨新博_修改_81.jpg);
+	background-repeat: no-repeat;
+	/*background-position: center center;*/
+	float: left;
+}
+.recommendBox_img222{
+	background: url(../img/杨新博_修改_82.jpg);
+	background-repeat: no-repeat;
+	background-position: 50px 0px;
+	float: left;
+}
+
+.recommendBox_img333{
+	background: url(../img/qqwe.jpg);
+	background-repeat: no-repeat;
+	/*background-position:center center;*/
+	float: left;
+	margin-left: 100px;
+}
+.recommendBox_img333:hover{
+	box-shadow: 3px 4px 15px #c2c2c2;
+}
+.recommendBox_img444{
+	background: url(../img/sssss.jpg);
+	background-repeat: no-repeat;
+	/*background-position: center center;*/
+	float: left;
+	margin-left: 65px;
+}
+.recommendBox_img444:hover{
+	box-shadow: 3px 4px 15px #c2c2c2;
+}
+.recommendBox_img555{
+	background: url(../img/杨新博_修改_92.jpg);
+	background-repeat: no-repeat;
+	/*background-position: center center;*/
+	float: right;
+
+}
+.recommendBox_img555:hover{
+	box-shadow: 3px 4px 15px #c2c2c2;
+}
+/*.lunbo{*/
+/*	width: 1600px;
+	height: 402px;
+	position: relative;
+	margin: 0 auto;	
+}
+.lunbo_img1{
+	width: 462px;
+	height: 330px;
+	background: url(../img/杨新博_修改_100.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin-top: auto;
+	margin-bottom: auto;
+	z-index: 9;
+	margin-right: 500px;
+}
+.lunbo_img2{
+	width: 627px;
+	height: 398px;
+	background: url(../img/杨新博_修改_98.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	margin:auto;
+	z-index: 10;
+}
+.lunbo_img3{
+	width: 462px;
+	height: 330px;
+	background: url(../img/杨新博_修改_103.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	position: absolute;
+	z-index: 8;
+	right:0;
+	top: 0;
+	bottom: 0;
+	margin-top: auto;
+	margin-bottom: auto;
+}*/
+.pingpai{
+	height: 252px;
+	background: url(../img/杨新博_修改_108.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	margin-top: 30px;
+
+}
+.pingpai_neirong{
+	height: 733px;
+	margin: 0 auto;
+	background-size: cover;
+}
+.pingpai_neirong_1{
+	width: 50%;
+	height: 100%;
+	background:url(../img/杨新博_修改_111.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	/*background-position: center center;*/
+	float: left;
+	background-size: cover;
+}
+.pingpai_neirong_2{
+	width: 50%;
+	height: 100%;
+	background: #2d2d2d;
+	float: left;
+	padding-left:200px;
+	padding-top:160px;
+	box-sizing:border-box;
+	padding-right: 160px;
+
+}
+h1{
+	font-family: 苹方,微软雅黑;
+	color: #a3a3a3;
+
+
+}
+h2{
+	font-family: 苹方,微软雅黑;
+	color: #a3a3a3;
+
+
+}
+.story{
+
+	font-family: 苹方,微软雅黑;
+	color: #a3a3a3;
+	font-size:20px; 
+
+	
+
+
+
+}
+.anniu{
+	width: 164px;
+	height: 58px;
+	background: #e4ce18;
+	float: right;
+/*	margin-right: 172px;*/
+
+}
+.footer{
+	height: 245px;
+	background: url(../img/杨新博_修改_119.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-bottom: 1px solid #dedfe0;
+}
+h3{
+	font-size: 14px;
+	font-family: 苹方,微软雅黑;
+	line-height: 58px;
+	text-align: center;
+
+}
+.footer_us{
+	width: 1200px;
+	height: 498px;
+	/*background: yellow;*/
+	margin: 0 auto;
+}
+.footer_us_box{
+	width: 756px;
+	height: 194px;
+	float: left;
+}
+.ts{
+	font-size: 14px;
+	font-family: 苹方,微软雅黑;
+	color: #5e5e5e;
+	margin-top: 60px;
+	margin-left: 60px;
+}
+.footer_us_box1{
+	width: 180px;
+	height: 300px;
+	float: left;
+	font-family: 苹方,微软雅黑;
+	color: #5e5e5e;
+	margin-top: 60px;
+	margin-left: 200px;
+	font-size: 16px;
+}
+.footer_lianxi{
+	width: 343px;
+	height: 119px;
+	/*background: red;*/
+	float: left;
+	margin-left: 56px;
+	background: url(../img/杨新博_修改-恢复的_71.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+
+}
+.footer_di{
+	height: 82px;
+	border: 1px solid #dedfe0;
+	background: url(../img/杨新博_修改-恢复的_75.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.uek_backtop{
+	width:50px;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	font:18px "微软雅黑";
+	font-weight:bold;color:#0780D1;
+	position:fixed;
+	right:50px;
+	bottom:100px;
+}
+.backtop:hover{
+	background:#0780D1;
+	color:#fff;
+}
+  .uek_outbox{
+  	width:1600px;
+  	height:332px;
+  	margin:0 auto;
+  	position:relative;
+  }
+  .uek_window{
+  	width:1600px;
+  	height:332px; 
+  	margin:0 auto;
+  	overflow:hidden;
+  	position:relative;
+  }
+  .uek_innerbox{
+  	width:1960px;
+  	height:100%;
+  	position:absolute;
+  	z-index: 100;
+  	margin:0 auto;
+
+  }
+
+  
+  .uek_lists{
+  	width:520px; 
+  	height:332px;
+  	float:left;
+  	margin-left: 30px;
+  	margin-right: 30px;
+  }  
+/*  .uek_innerbox:nth-child(2){
+  	transform:scale(1.2,1.2);
+ }*/
+  .uek_leftbtn{
+  	position:absolute;
+  	width:30px;
+  	height:332px;
+  	left:-30px;
+  	top:0;
+  	font:60px "黑体";
+  	cursor:pointer;
+  	 text-align:center;
+  	 line-height:332px;
+  	 transition:all 0.5s ease;
+ }
+  .uek_leftbtn:hover{
+  	background:#ccc;
+  	color:#fff;
+ }
+
+  .uek_rightbtn{
+  	position:absolute;
+  	width:30px;
+  	height:332px;
+  	right:-30px;
+  	top:0;
+  	font:60px "黑体";
+  	cursor:pointer; 
+  	text-align:center;
+  	line-height:332px;
+  	transition:all 0.5s ease;
+  }
+  .uek_rightbtn:hover{
+  	background:#ccc;
+  	color:#fff;
+  }
+/*  .uek_lists_1{
+  	width:520px; 
+  	height:332px;
+  	float:left;
+  	margin-right: 20px;
+  }*/

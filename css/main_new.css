@@ -1,0 +1,333 @@
+.headerbox{
+	height: 221px;
+	
+
+}
+.logo{
+	width: 1200px;
+	height: 148px;
+	margin: 0 auto;
+	/*background: red;*/
+	background-image: url(../img/logo.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	
+
+}
+.phone{
+	margin-top: 50px;
+	float: left;
+
+}
+}
+.lianxi{
+	margin-top: 5px;
+	font-size: 16px;
+	color: #dfdfdf;
+
+}
+.fx{
+	margin-top: 50px;
+	float: right;
+}
+.daohang{
+	height: 72px;
+	border-top: 1px solid #dfdfdf;
+	margin: 0 auto;
+
+}
+.daohang_wenzi{
+	width: 1200px;
+	height: 72px;
+	margin:0 auto;
+	background: url(../img/weeee.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+
+}
+.daohang_wenzi_zs{
+	width: 1000px;
+	height: 72px;
+	margin:0 auto;
+
+}
+
+.wenzi_bq{
+	height: 72px;
+	/*background: green;*/
+	float: left;
+	line-height: 72px;
+	text-align: center;
+	font-size: 22px;
+	font-family: 黑体,微软雅黑;
+
+
+}
+a{
+	color: #000;
+}
+.wenzi_bq1{
+	width: 44px;
+	height: 4px;
+	background: #e4ce18;
+	margin-left: 78px;
+	margin-right: 78px;
+}
+.wenzi_bq2{
+	margin-left: 78px;
+	margin-right: 78px;
+}
+.banner{
+	width: 100%;
+	height: 345px;
+	/*background: red;*/
+	background-image: url(../img/0012212_02.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	position: relative;
+	background-size: 1920px auto;
+	margin:0 auto;
+}
+.mianbaoxie{
+	width: 1200px;
+	height: 100px;
+	margin: 0 auto;
+	line-height: 100px;
+	font-size: 14px;
+	font-family: 苹方,微软雅黑;
+	color:#444343;
+	
+}
+.neirongBox{
+	width: 1200px;
+	height: 1300px;
+	margin: 0 auto;
+	/*background: red;*/
+}
+.neirongBox1{
+	width: 874px;
+	height: 100%;
+	float: left;
+
+}
+.tp{
+	width: 299px;
+	height: 300px;
+	float: left;
+}
+
+.rq{
+	font-size: 12px;
+	font-family: 苹方,微软雅黑;
+	color: #bfbfbf;
+	float: left;
+	margin-left: 400px;
+    margin-top: 21px;
+}
+.rq1{
+	font-size: 12px;
+	font-family: 苹方,微软雅黑;
+	color: #bfbfbf;
+	float: left;
+	margin-left: 400px;
+    margin-top: 10px;
+}
+.kong{
+	width: 800px;
+	height: 80px;
+	/*background: red;*/
+	float: left;
+	border-bottom: 1px solid #dfdfdf;
+}
+.kong1{
+	width: 800px;
+	height: 79px;
+	/*background: red;*/
+	float: left;
+}
+.neirongBox2{
+	width: 240px;
+	height: 100%;
+	/*background: red;*/
+	float: right;
+
+}
+.neirongBox2_T{
+	width: 132px;
+	height: 26px;
+	margin-left: 54px;
+
+}
+.tp_you{
+	width: 240px;
+	height: 62px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.tp_you_wenzi{
+	width: 153px;
+	height: 53px;
+	/*background: red;*/
+	float: right;
+	margin-top: 5px;
+}
+.march{
+	font-size: 20px;
+	font-family: 苹方,微软雅黑;
+	color: #bdbdbd;
+}
+.march_wenzi{
+	font-size: 14px;
+	font-family: 苹方,微软雅黑;
+	color: #6c6c6c;
+}
+
+
+
+
+.tp_wenzi{
+	width: 290px;
+	height: 77px;
+	margin-left: 30px;
+	float: left;
+}
+.tp_wenzi1{
+	width: 504px;
+	height: 152px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 40px;
+	font-size: 24px;
+	font-family: 方正硬笔行书简体,苹方,微软雅黑;
+	color: #545150;
+}
+.tp_wenzi1 span{
+	display: inline-block;
+	width: 504px;
+	height: 152px;
+	overflow: hidden;
+}
+.tp_wenzi2{
+	width: 504px;
+	height: 80px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 120px;
+	font-size: 24px;
+	font-family: 方正硬笔行书简体,苹方,微软雅黑;
+	color: #545150;
+}
+
+.yeshuBox{
+	width: 540px;
+	height: 30px;
+	margin: 0 auto;
+	/*background: red;*/
+	margin-top: 25px;
+	margin-bottom: 25px;
+
+}
+.yeshuBox_zuo{
+	width: 60px;
+	height: 30px;
+	background: url(../img/0012212_41.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: left;
+
+}
+.yeshuBox_1{
+	width: 29px;
+	height: 29px;
+	border: 1px solid #6c6c6c;
+	float: left;
+	text-align: center;
+	line-height: 29px;
+	font-size: 14px;
+	/*font-family: 苹方,微软雅黑;*/
+	color: #3f3f3f;
+	margin-left: 19px;
+}
+.yeshuBox_you{
+	width: 60px;
+	height: 30px;
+	background: url(../img/0012212_43.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: right;
+}
+.footer{
+	height: 245px;
+	background: url(../img/杨新博_修改_119.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-bottom: 1px solid #dedfe0;
+}
+h3{
+	font-size: 14px;
+	font-family: 苹方,微软雅黑;
+	line-height: 58px;
+	text-align: center;
+
+}
+.footer_us{
+	width: 1200px;
+	height: 498px;
+	/*background: yellow;*/
+	margin: 0 auto;
+}
+.footer_us_box{
+	width: 756px;
+	height: 194px;
+	float: left;
+}
+.ts{
+	font-size: 14px;
+	font-family: 苹方,微软雅黑;
+	color: #5e5e5e;
+	margin-top: 60px;
+	margin-left: 60px;
+}
+.footer_us_box1{
+	width: 180px;
+	height: 300px;
+	float: left;
+	font-family: 苹方,微软雅黑;
+	color: #5e5e5e;
+	margin-top: 60px;
+	margin-left: 200px;
+	font-size: 16px;
+}
+.footer_lianxi{
+	width: 343px;
+	height: 119px;
+	/*background: red;*/
+	float: left;
+	margin-left: 56px;
+	background: url(../img/杨新博_修改-恢复的_71.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+
+}
+.footer_di{
+	height: 82px;
+	border: 1px solid #dedfe0;
+	background: url(../img/杨新博_修改-恢复的_75.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.uek_backtop{
+	width:50px;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	font:18px "微软雅黑";
+	font-weight:bold;color:#0780D1;
+	position:fixed;
+	right:50px;
+	bottom:100px;
+}
+.backtop:hover{
+	background:#0780D1;
+	color:#fff;
+}
